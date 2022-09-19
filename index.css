@@ -4,11 +4,14 @@
     justify-content: space-around;
     flex-wrap: wrap;
     margin-top: 50px;
+    
 }
 .tarjetas{
     width: 30%;
     height: 30%;
     border: 1px solid black;
+    border-radius: 0px 0px 12px 12px;
+    margin-bottom: 20px;
 }
 .foto{
     width: 100%;
