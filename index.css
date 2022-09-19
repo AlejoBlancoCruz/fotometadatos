@@ -21,3 +21,16 @@
 .foto:hover {
     opacity: 0.7;
   }
+  @media (max-width: 630px) {
+    .tarjetas {
+        width: 20%;
+        height: auto;
+        font-size: 7px;
+    }
+    .foto{
+        width: 80px;
+        height: 100px;
+    }
+
+    
+  }
