@@ -1,0 +1,16 @@
+#tarjetero{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.tarjetas{
+    width: 30%;
+    height: 30%;
+    border: 1px solid black;
+}
+.foto{
+    width: 100%;
+    height: 200px;
+}
